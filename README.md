@@ -19,7 +19,7 @@ This project aims to provide a seamless solution for translating videos into dif
 ## Usage:
   Clone the repository to your local machine.   
   Install the required dependencies specified in the requirements.txt file using the below command.    
-  `pip install -r requirements. txt`      
+  `pip install -r requirements.txt`      
   Download the models in the required_models.txt   
   Run the application locally using the below command.   
   `python Run_your_voice.py`    
