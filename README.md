@@ -17,10 +17,10 @@ This project aims to provide a seamless solution for translating videos into dif
 
 
 ## Usage:
-  Clone the repository to your local machine.
-  Install the required dependencies specified in the requirements.txt file.
-  Download the models in the required_models.txt
-  Run the application locally using the below command.
-  `python Run_your_voice.py`
+  Clone the repository to your local machine.   
+  Install the required dependencies specified in the requirements.txt file.     
+  Download the models in the required_models.txt   
+  Run the application locally using the below command.   
+  `python Run_your_voice.py`    
   Access the application through a web browser and follow the on-screen instructions to upload your video and select the target language for translation.
   Once the translation process is complete, download the translated video for your use.
