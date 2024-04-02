@@ -6,7 +6,11 @@ This project aims to provide a seamless solution for translating videos into dif
 
 **Features:**
 
-  Language Translation:   Translate the audio content of videos into various languages.  
-  Custom Voice Samples:   Utilize custom voice samples to ensure natural-sounding translations.  
-  User-Friendly Interface:   Simple and intuitive web interface for uploading videos and selecting target languages.  
-  Automatic Synchronization:   Automatically synchronize translated audio with video frames to maintain lip sync.  
+  Language Translation:   
+  Translate the audio content of videos into various languages.  
+  Custom Voice Samples:   
+  Utilize custom voice samples to ensure natural-sounding translations.  
+  User-Friendly Interface:   
+  Simple and intuitive web interface for uploading videos and selecting target languages.  
+  Automatic Synchronization:   
+  Automatically synchronize translated audio with video frames to maintain lip sync.  
